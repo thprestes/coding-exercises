@@ -48,4 +48,4 @@ Inicio
   
   	Escreval ("FIM DE JOGO")
 
-	fimalgoritmo
+FimAlgoritmo
